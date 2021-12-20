@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuwantha&theme=swift&show_icons=true)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=madhuwantha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuwantha)](https://github.com/madhuwantha/github-readme-stats)
 
 
 <!--
