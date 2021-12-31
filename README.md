@@ -1,5 +1,5 @@
 ### Hi there, I'm Madhuwantha Priyashan 👋
-
+<hr>
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuwantha&theme=swift&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuwantha&layout=compact)](https://github.com/madhuwantha/github-readme-stats)
