@@ -1,9 +1,12 @@
 ### Hi there, I'm Madhuwantha Priyashan 👋
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuwantha&theme=swift&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuwantha&layout=compact)](https://github.com/madhuwantha/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuwantha&theme=swift&show_icons=true)
 
+<hr>
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuwantha&layout=compact)](https://github.com/madhuwantha/github-readme-stats)
 
+<hr>
 ![](https://visitor-badge.laobi.icu/badge?page_id=madhuwantha)
 
 <!--
