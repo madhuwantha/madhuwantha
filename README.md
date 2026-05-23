@@ -61,6 +61,7 @@ I'm a **Software Engineer** passionate about building scalable distributed syste
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**ask-my-pdfs**] (https://github.com/madhuwantha/ask-my-pdfs)|||
 | [**idempotency-demo**](https://github.com/madhuwantha/idempotency-demo) | Booking system demonstrating idempotency & distributed locks in production-like setup | TypeScript, Node.js, Redis, MongoDB, K8s |
 | [**microservices-architecture-spring-boot**](https://github.com/madhuwantha/microservices-architecture-spring-boot) | Microservices reference architecture | Go, Gin |
 | [**file-data-management-automation**](https://github.com/madhuwantha/file-data-management-automation) | Automated file & data pipeline management | Python |
